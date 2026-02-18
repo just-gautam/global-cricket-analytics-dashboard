@@ -3,7 +3,7 @@
 End-to-end data analytics project using Excel/WPS to clean, model, and visualize international cricket match data (2014–2026). Built interactive dashboards with pivot tables, slicers, and KPIs to uncover trends in team performance, venues, and seasons.
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard_preview.png .png)
+![Dashboard](https://github.com/just-gautam/global-cricket-analytics-dashboard/blob/main/screenshots/dashboard_preview.png%20.png)
 
 
 ## 📊 Key Insights
